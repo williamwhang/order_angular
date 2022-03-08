@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta",
+      "price": 7.98
+    },
+    {
+      "id": 2,
+      "name": "Lapis",
+      "price": 3.89
+    },
+    {
+      "id": 3,
+      "name": "Papel",
+      "price": 10.97
+    },
+    {
+      "id": 4,
+      "name": "Caneta 2",
+      "price": 17.98
+    },
+    {
+      "name": "Noote",
+      "price": "22",
+      "id": 5
+    }
+  ]
+}
